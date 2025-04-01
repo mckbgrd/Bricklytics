@@ -1,0 +1,1 @@
+const HypotheekModule = () => <div>Hypotheekmodule komt hier</div>; export default HypotheekModule;
