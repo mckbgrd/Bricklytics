@@ -1,1 +1,0 @@
-const InvesteringsScore = () => <div>Investeringsscore: 8.2/10</div>; export default InvesteringsScore;

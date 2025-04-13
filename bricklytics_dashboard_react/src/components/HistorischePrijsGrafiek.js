@@ -1,1 +1,0 @@
-const HistorischePrijsGrafiek = () => <div>Grafiek met prijsontwikkeling</div>; export default HistorischePrijsGrafiek;

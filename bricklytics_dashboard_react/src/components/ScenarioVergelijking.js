@@ -1,1 +1,0 @@
-const ScenarioVergelijking = () => <div>Scenariovergelijkingstabel</div>; export default ScenarioVergelijking;
